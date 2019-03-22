@@ -47,3 +47,9 @@
 Use the example and pictures showing the TCP handshake
 And SSL handshake
 Wireshark screenshots
+
+
+## Links
+- Excon library: https://github.com/excon/excon
+- Connection pool library: https://github.com/mperham/connection_pool
+- Further reading: [High Performance Browser Networking by Ilya Grigorik](https://www.goodreads.com/book/show/17985198-high-performance-browser-networking)
